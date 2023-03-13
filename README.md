@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @4lexandr3
-- 👀 I’m interested in Data Science oportunities
-- 🌱 I’m currently learning pySpark, Python and Apache NiFi
+- 👀 I’m interested in Data Science and IA oportunities
+- 🌱 I’m currently learning Python, Machine Learning and Typescript
 - 💞️ I’m looking to collaborate on the same technologies above
 - 📫 How to reach me: DM on https://www.linkedin.com/in/alexandre-esmeraldo-bab5b39/
 
